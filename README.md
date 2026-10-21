@@ -1,5 +1,3 @@
-# questrom-projects
-Data science projects from my MS in Business Analytics at Questrom School of Business, Boston University
 # Questrom Projects
 
 Data analytics projects from my MS in Business Analytics at Boston University Questrom School of Business.
