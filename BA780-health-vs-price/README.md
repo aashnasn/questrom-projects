@@ -30,12 +30,6 @@ Many shoppers on a budget believe that eating well costs more. This project test
 ├── README.md
 ├── B02-00-Data-Pull.ipynb                               # Step 1: builds the input files from source
 ├── B02-01-Health-Vs-Price-US-Packaged-Groceries.ipynb   # Step 2: cleaning, analysis, figures, conclusions
-└── input_data/
-    ├── off_products_us.csv        # ~1M U.S. products: scores, nutrients, package size, labels (used by analysis)
-    ├── off_products_us.parquet    # Same table with native list types (not used by analysis)
-    ├── off_prices_us.csv          # U.S. Open Prices observations, 48 columns
-    ├── food_groups.json           # Open Food Facts food-group taxonomy (used by analysis)
-    └── categories.json            # Open Food Facts category taxonomy (downloaded; not used by analysis)
 ```
 
 ---
@@ -218,13 +212,14 @@ The final section of the analysis notebook prototypes the logic for a gamified a
 
 ## Team
 
-| Member | Contribution |
+| Member | Email |
 |---|---|
-| Aashna | Theme 1: Know your aisle |
-| Gauri | Theme 2: The greener choice |
-| Peter | Theme 3: Healthy doesn't cost more |
-| Dhruv | Theme 4: What shoppers pay for |
-| Alex | Theme 5: Shop the store |
+| Aashna Soni | aashnasn@bu.edu |
+| Gauri Nandihalli | gaurin@bu.edu |
+| Peter Chang | chang324@bu.edu |
+| Dhruv Thakkar | dhruv95@bu.edu |
+| Alex Yee Ting Chen | aytchen@bu.edu |
+
 
 ## GenAI disclosure
 
